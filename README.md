@@ -1,4 +1,4 @@
-Spring Boot Application with Spring JPA, Spring Security, and Spring Web using H2 database
+#Spring Boot Application with Spring JPA, Spring Security, and Spring Web using H2 database
 #The goal was to 
 try to transform the the class diagram [see the image exercice.jpg ] into a Springboot application (Rest APIs, Security and JPA).
 # This is a basic Spring Boot application that demonstrates how to use Spring JPA, Spring Security, and Spring Web to build a web application with an H2 database.
